@@ -17,6 +17,8 @@
 		9972573E2AC5BFF300C6AC12 /* View_Controller_FunTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9972573D2AC5BFF300C6AC12 /* View_Controller_FunTests.swift */; };
 		997257482AC5BFF300C6AC12 /* View_Controller_FunUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997257472AC5BFF300C6AC12 /* View_Controller_FunUITests.swift */; };
 		9972574A2AC5BFF300C6AC12 /* View_Controller_FunUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997257492AC5BFF300C6AC12 /* View_Controller_FunUITestsLaunchTests.swift */; };
+		997257572AC5C35600C6AC12 /* ViewControllerAdmin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997257562AC5C35600C6AC12 /* ViewControllerAdmin.swift */; };
+		99E6A1CB2AC7180E0009DAA6 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99E6A1CA2AC7180E0009DAA6 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		997257432AC5BFF300C6AC12 /* View Controller FunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "View Controller FunUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		997257472AC5BFF300C6AC12 /* View_Controller_FunUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View_Controller_FunUITests.swift; sourceTree = "<group>"; };
 		997257492AC5BFF300C6AC12 /* View_Controller_FunUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View_Controller_FunUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		997257562AC5C35600C6AC12 /* ViewControllerAdmin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAdmin.swift; sourceTree = "<group>"; };
+		99E6A1CA2AC7180E0009DAA6 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +108,9 @@
 				997257232AC5BFF100C6AC12 /* AppDelegate.swift */,
 				997257252AC5BFF100C6AC12 /* SceneDelegate.swift */,
 				997257272AC5BFF100C6AC12 /* ViewController.swift */,
+				997257562AC5C35600C6AC12 /* ViewControllerAdmin.swift */,
 				997257292AC5BFF100C6AC12 /* Main.storyboard */,
+				99E6A1CA2AC7180E0009DAA6 /* ViewController3.swift */,
 				9972572F2AC5BFF300C6AC12 /* Assets.xcassets */,
 				997257312AC5BFF300C6AC12 /* LaunchScreen.storyboard */,
 				997257342AC5BFF300C6AC12 /* Info.plist */,
@@ -263,7 +269,9 @@
 			files = (
 				9972572E2AC5BFF100C6AC12 /* View_Controller_Fun.xcdatamodeld in Sources */,
 				997257282AC5BFF100C6AC12 /* ViewController.swift in Sources */,
+				99E6A1CB2AC7180E0009DAA6 /* ViewController3.swift in Sources */,
 				997257242AC5BFF100C6AC12 /* AppDelegate.swift in Sources */,
+				997257572AC5C35600C6AC12 /* ViewControllerAdmin.swift in Sources */,
 				997257262AC5BFF100C6AC12 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
